@@ -1,3 +1,6 @@
 [submodule "Boletin17Ejer1/Lib"]
 	path = Boletin17Ejer1/Lib
 	url = https://github.com/ablancoabalde/Milibreria
+[submodule "Boletin17Ejer2/Lib"]
+	path = Boletin17Ejer2/Lib
+	url = https://github.com/ablancoabalde/Milibreria
